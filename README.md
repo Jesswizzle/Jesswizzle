@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jesswizzle
 - 👀 I’m interested in Bioinformatics and data visualisation
-- 🌱 I’m currently learning python
+- 🌱 Python certified
 
 <!---
 Jesswizzle/Jesswizzle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
